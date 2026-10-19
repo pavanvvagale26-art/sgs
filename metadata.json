@@ -1,0 +1,6 @@
+{
+  "name": "SGS Gundu Palav - Bengaluru Military Donne Palav",
+  "description": "Preserving royal culinary heritage and authentic South Indian spiced donne palav traditions since 1989 in Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
